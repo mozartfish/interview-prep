@@ -1,0 +1,25 @@
+Sorting
+- by default, .sort() in python sorts elements in ASCENDING order IN-PLACE
+- the return value of .sort() is None 
+- by default strings are sorted in lexicographical order ie. alphabetical/dictionary order 
+- Runtime: O(nlogn), Space - O(n) where n represents the number of elements 
+- python uses timsort - a hybrid combination of mergesort and insertion sort to sort lists 
+- .sort() accepts two optional parameters: key and reverse 
+- key allows for specifying a custom sorted order
+- the key parameter takes a function and returns a value that can be used for sorting
+- lambda functions allow for defining an anonymous function in a single line and passing it directly to sort
+- reverse is a boolean value that determines whether the list should be sorted in ascending/descending order. by default it is false 
+- .sorted() returns a new list with the elements sorted in the specified order; the original list remains unchanged 
+
+
+
+
+
+
+
+
+
+
+
+
+Pythonic Code 
