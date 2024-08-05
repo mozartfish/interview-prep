@@ -12,14 +12,4 @@ Sorting
 - .sorted() returns a new list with the elements sorted in the specified order; the original list remains unchanged 
 
 
-
-
-
-
-
-
-
-
-
-
-Pythonic Code 
+Pythonic Code
