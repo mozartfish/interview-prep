@@ -13,3 +13,7 @@ Sorting
 
 
 Pythonic Code
+- enumerate gives access to both the inxex and the element at that index 
+- the zip() function takes multiple lists as arguments and returns an iterator of tuples; each tuple contains an element from each list 
+- zip is useful for when we have multiple lists of the same length and want to iterate over them together
+- Runtime: O(1), Space - O(1) -> zip returns an iterator at the beginning of the input lists(no traversal and doesn't create a new list in memory)
