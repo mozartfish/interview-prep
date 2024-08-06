@@ -17,3 +17,27 @@ Pythonic Code
 - the zip() function takes multiple lists as arguments and returns an iterator of tuples; each tuple contains an element from each list 
 - zip is useful for when we have multiple lists of the same length and want to iterate over them together
 - Runtime: O(1), Space - O(1) -> zip returns an iterator at the beginning of the input lists(no traversal and doesn't create a new list in memory)
+
+
+Lists 
+- python only has resizable arrays -> java, c++, and other languages have arrays and vectors/arraylists(resizable)
+- Key functions: append(), pop(), insert()
+- append() inserts element to the end of the list 
+- pop() removes and returns the last element of the list
+- insert() inserts an element at a specified index in the list 
+- Runtime: append() - O(1), pop() - O(1), insert() - O(n)
+- index() returns the index of the first occurrence of a specific element if it exists 
+- remove() removes the first occurrence of a specified element 
+- extend() adds the elements of another list to the end of the list
+- Runtime: index() - O(n), remove() - O(n), extend() - O(m) where m is the elngth of the list passed to extend, in - O(n) 
+- to check if an element is in a list we use the keyword in 
+- concat does the same thing as extend but shorthand using the + operator with lists 
+- the difference between concat and extend is that + creates a new list while extend modifies the original list
+- Runtime: O(n + m) where n and m represent the different sizes of the lists 
+- Runtime for intializing a list: O(n)
+- its common to make a copy of a list in algorithm - python provides multiple options: copy, slice, list constructor
+- copy(), slice and list are shallow copy functions - any modification to the original array will modify the copy because they reference the same memory location 
+- when copying large structures ie. lists of lists, objects, structs use deep copy - deep copy will ensure the objects are independent and will not affect one another when there is a modification 
+- Runtime: O(n) for the length of the list being copied 
+- list comprehension is a powerful python feature that allows for creating lists concisely 
+- Runtime: O(n) where n represents the number of times the loop runs in the comprehension
