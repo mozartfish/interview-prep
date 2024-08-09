@@ -41,3 +41,22 @@ Lists
 - Runtime: O(n) for the length of the list being copied 
 - list comprehension is a powerful python feature that allows for creating lists concisely 
 - Runtime: O(n) where n represents the number of times the loop runs in the comprehension
+
+
+Stacks and Queues 
+- python doesn't have a builtin stack data structure -> uses lists for the same purpose 
+- append() is used to push an element onto the stack 
+- pop() is used to remove and return the top element from the stack 
+- [-1] can be used to access the top element of the stack without removing it -> assuming stack is non-empty 
+- len() can be used to check if the stack is empty 
+- Runtime: append() - O(1), pop() - O(1), [-1] - O(1), len() - O(1)
+- python provides the deque class in the collections module to implement a doubly-ended queue 
+- append() is used to enqueue an element to the right side side of the queue 
+- popleft() is used to remove and return the leftmost element from the queue -> this obeys FIFO order from CS theory and languages like java/c++ etc.
+- [0] and [-1] can be used to access the leftmost and rightmost elements of the queue assuming the queue is non-empty 
+- len() can be used to check if the queue is empty 
+- Runtime(): append() - O(1), popleft() - O(1), [0][-1][i] where i is a valid index - O(1), len() - O(1)
+- python dequeue is actually a double-ended queue -> you can append and pop from either end 
+- appendleft() -> enqueue an element to the left side -> this obeys FIFO order from CS theory and languages like java/c++ etc. 
+- pop() is used to remove and return the rightmost element from the queue 
+
