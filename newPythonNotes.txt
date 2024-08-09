@@ -60,3 +60,11 @@ Stacks and Queues
 - appendleft() -> enqueue an element to the left side -> this obeys FIFO order from CS theory and languages like java/c++ etc. 
 - pop() is used to remove and return the rightmost element from the queue 
 
+
+2-D Lists 
+- nested lists are lists that contain other lists -> allows fo creating multi-dimensional lists (which are lists of lists)
+- its common to represent 2D grids as a list of lists in python 
+- rows -> represent the number of rows in the grid 
+- cols -> represent the number of columns in the grid
+- this is assuming all the sublists in the grid have the same length which is the case for 2d grids in algorithm problems
+- Runtime: for an n x m grid with a given value - O(n * m)
