@@ -1,6 +1,5 @@
 from typing import List, Dict
 
-
 def group_names_and_scores(names: List[str], scores: List[int]) -> Dict[str, int]:
     group = {}
     for name, score in zip(names, scores):
