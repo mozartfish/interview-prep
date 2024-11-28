@@ -17,3 +17,5 @@ Neetcode <https://neetcode.io/practice>
 10. Dictionaries 
 11. Standard Input 
 12. Exception Handling
+
+### Python Data Structure Practice 
