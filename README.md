@@ -19,3 +19,5 @@ Neetcode <https://neetcode.io/practice>
 12. Exception Handling
 
 ### Python Data Structure Practice 
+13. Sorting 
+14. Pythonic Code 
