@@ -25,3 +25,7 @@ Neetcode <https://neetcode.io/practice>
 16. Stacks and Queues 
 17. 2D Lists 
 18. Hashmaps and Hashsets 
+19. Heaps and Priority Queues 
+20. Sorted Dicts and Sorted Sets 
+
+### Data Structure Fundamental Practice 
