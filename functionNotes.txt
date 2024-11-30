@@ -34,11 +34,17 @@ zip(list1, list2) -> loop over same size lists
 in - check if element in list 
 .copy() - shallow copy of a list
 .deepcopy - deep copy of a list 
+my_list = [0] * 5 - list initialization of 5 elements 
 
 // Stacks and Queues 
 deque([]) - doubly ended queue 
 .appendleft() - append to front of queue 
 .popleft() - remove element from front of the queue 
 .append() - append element to back of queue 
-.pop() - reove element from back of queue 
+.pop() - remove element from back of queue 
+
+// 2D Lists (grids)
+rows = 3, cols = 2 
+grid = [[0 for i in range(3)] for j in range(2)] - initialize a grid 
+grid = [[0] * 3 for _ in range(2)] - initialize a grid with comprehension
 

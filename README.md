@@ -23,3 +23,5 @@ Neetcode <https://neetcode.io/practice>
 14. Pythonic Code 
 15. Lists 
 16. Stacks and Queues 
+17. 2D Lists 
+18. Hashmaps and Hashsets 
