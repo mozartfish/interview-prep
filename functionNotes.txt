@@ -1,0 +1,44 @@
+Falsy Values 
+- False 
+- None 
+- 0 
+- 0.0 
+- ""
+- []
+- empty collections 
+
+Truthy Values 
+- True 
+- All integers other than 0 
+- All floats other than 0.0 
+- All collections with at least one element
+
+// Sorting 
+.sort() - sort ascending returns none
+.sort(reverse=True) - sort descending returns none 
+key = custom sort function 
+.sort(key=lamda x :len(x), reverse=False) - lamda sorting function 
+.sorted() - returns new list with sorted elements 
+
+// Pythonic Code 
+enumerate(list) -> index, value 
+zip(list1, list2) -> loop over same size lists 
+
+// Lists 
+.append() - add to end of list 
+.pop() - remove from end of list 
+.insert(index, value) - insert at an index 
+.index() - index of first occurrence 
+.remove() - remove first occurrence 
+.extend() - adds elements of one list to another 
+in - check if element in list 
+.copy() - shallow copy of a list
+.deepcopy - deep copy of a list 
+
+// Stacks and Queues 
+deque([]) - doubly ended queue 
+.appendleft() - append to front of queue 
+.popleft() - remove element from front of the queue 
+.append() - append element to back of queue 
+.pop() - reove element from back of queue 
+
