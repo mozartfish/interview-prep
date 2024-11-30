@@ -48,3 +48,36 @@ rows = 3, cols = 2
 grid = [[0 for i in range(3)] for j in range(2)] - initialize a grid 
 grid = [[0] * 3 for _ in range(2)] - initialize a grid with comprehension
 
+// Hashmaps and Hashsets 
+//Hashmaps 
+my_dict['a'] = 1 # {'a': 1} - insert key-value pair 
+my_dict['a'] # 1 - access value associated with key 
+del my_dict['a']  - delete key value pair 
+from collection import defaultdict - default dict 
+defaultdict(list/int/float/type) - have a placeholder value 
+from collections import Counter 
+Counter(list) - create a counter dictionary that counts frequencies 
+counter.update(list) - count the occurences of multiple lists with same counter object 
+squared = {num: num * num for num in nums} - dict comprehension 
+dict.values() - get all values in dictionary 
+dict.items() - get a list of tuples in the form (key, value)
+dict.keys() - get a list of all keys in dictionary 
+
+//Hashsets 
+my_set.add('a') # {'a'} - insert into set 
+my_set.remove('a') # {} - remove from set. throws key error if key does not exist 
+my_set.discard('b') # {} - remove from set. throws no error if key does not exist 
+squared = {num * num for num in nums} - set comprehension 
+set_of_pairs.add((0, 0)) - tuple values for keys (set and dictionary)
+
+// Heaps and Priority Queues 
+heapq.heappush(heap, val) - insert element into heap (priority queue)
+heapq.heappop(heap) - remove top most element from heap 
+heapq.heapify(heap) - rearrange elements into a valid heap (min heap)
+heapq.heappush(heap, -num) - change min heap to max heap 
+custom heap - use tuples for insertion and access second value 
+heapq.nsmallest(num, list) - returns a list of num length of smallest values (smallest to largest)
+heapq.nlargest(num, list) - returns a list of num length of largest values (largest to smallest)
+
+// Sorted Dicts and Sorted Sets 
+

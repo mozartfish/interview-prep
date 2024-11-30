@@ -28,4 +28,4 @@ Neetcode <https://neetcode.io/practice>
 19. Heaps and Priority Queues 
 20. Sorted Dicts and Sorted Sets 
 
-### Data Structure Fundamental Practice 
+### Data Structure Fundamental Practice
