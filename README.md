@@ -21,3 +21,5 @@ Neetcode <https://neetcode.io/practice>
 ### Python Data Structure Practice 
 13. Sorting 
 14. Pythonic Code 
+15. Lists 
+16. Stacks and Queues 
