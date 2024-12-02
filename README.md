@@ -29,6 +29,10 @@ Neetcode <https://neetcode.io/practice>
 20. Sorted Dicts and Sorted Sets 
 
 ### Data Structure Fundamental Practice
+#### Bit Manipulation 
 21. Bit Operations 
+#### HashMaps and Hashsets 
 22. Hash Usage 
+23. Hash Implementation 
+#### Arrays 
 
