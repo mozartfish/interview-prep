@@ -34,5 +34,14 @@ Neetcode <https://neetcode.io/practice>
 #### HashMaps and Hashsets 
 22. Hash Usage 
 23. Hash Implementation 
-#### Arrays 
+#### Arrays + Stacks + Queues + Linked Lists 
+24. Static Arrays 
+25. Dynamic Arrays 
+26. Stacks 
+27. Singly Linked Lists 
+28. Doubly Linked Lists 
+29. Queues 
+#### Advanced Arrays + Queues + Linked Lists 
+
+
 
