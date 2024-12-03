@@ -1,3 +1,5 @@
+# Given the beginning of a singly linked list head, reverse the list, and return the new beginning of the list.
+# Implement this solution iteratively
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
