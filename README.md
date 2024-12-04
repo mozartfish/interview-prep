@@ -42,6 +42,7 @@ Neetcode <https://neetcode.io/practice>
 28. Doubly Linked Lists 
 29. Queues 
 #### Advanced Arrays + Queues + Linked Lists 
+30. Kadane's Algorithm 
 
 
 
