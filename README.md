@@ -9,6 +9,8 @@ Neetcode <https://neetcode.io/practice>
 2. Variables 
 3. Math 
 4. Functions
+5. Conditional Statements
+6. Loops 
 ### Python for Coding Interviews Fundamentals 
 ### Python OOP Fundamentals
 ### Data Structures and Algorithms Fundamentals 
