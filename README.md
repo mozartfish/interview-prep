@@ -12,6 +12,7 @@ Neetcode <https://neetcode.io/practice>
 5. Conditional Statements
 6. Loops 
 7. Strings
+8. Lists
 ### Python for Coding Interviews Fundamentals 
 ### Python OOP Fundamentals
 ### Data Structures and Algorithms Fundamentals 
