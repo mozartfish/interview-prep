@@ -13,6 +13,7 @@ Neetcode <https://neetcode.io/practice>
 6. Loops 
 7. Strings
 8. Lists
+9. Sets
 ### Python for Coding Interviews Fundamentals 
 ### Python OOP Fundamentals
 ### Data Structures and Algorithms Fundamentals 
