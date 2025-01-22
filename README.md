@@ -25,6 +25,7 @@ Neetcode <https://neetcode.io/practice>
 23. Class Attributes 
 24. Inheritance 
 25. Polymorphism
+26. Abstraction 
 
 ### Data Structures and Algorithms Fundamentals 
 
