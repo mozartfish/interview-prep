@@ -15,6 +15,7 @@ Neetcode <https://neetcode.io/practice>
 8. Lists
 9. Sets
 10. Dictionaries
+11. IO
 ### Python for Coding Interviews Fundamentals 
 ### Python OOP Fundamentals
 ### Data Structures and Algorithms Fundamentals 
