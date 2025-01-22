@@ -24,6 +24,7 @@ Neetcode <https://neetcode.io/practice>
 22. Encapsulation 
 23. Class Attributes 
 24. Inheritance 
+25. Polymorphism
 
 ### Data Structures and Algorithms Fundamentals 
 
