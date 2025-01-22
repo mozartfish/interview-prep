@@ -1,0 +1,98 @@
+Variables 
+- python naming convention: snake_case 
+snake case: my_variable_name 
+camel case: myVariableName 
+pascal case: myVariableName
+- check type: type()
+thing = "hello"
+type(thing) => returns string 
+- type casting
+pi = 3.141592 
+pi = int(pi) => returns 3 
+- None 
+var = None => variable has no value and type none 
+
+Math 
+- integer division: // 
+- modulus: % 
+- exponent: ** 
+
+Functions 
+
+Conditionals 
+- Truthy Values: 
+True(boolean)
+integers > 0 
+floats > 0.0 
+strings not ""
+collections with >= 1 element 
+- Falsy Values: 
+False (boolean)
+None(None type)
+0 (integer)
+0.0 (float)
+"" (empty string)
+[] (empty list)
+empty collections 
+
+Loops 
+- for start loops: start from particular value 
+for i in range(10, 21) => start from 10 and go until 20 
+- for step loop: increment by step size 
+for i in range(0, 110, 10): start from 0 and increment by 10 until 110 
+- for reverse loops: traverse collection backwards 
+for i in range(20, 9, -1) => start from 20 and go until 9 incrementing by -1 
+- pass: placeholder that does nothing in functions 
+
+Strings 
+- len(): finds length of string 
+len("hello") => returns 5 
+- string indexing: 
+var = "hello"
+var[0] = 'h' 
+- string looping: 
+for char in var: 
+    print(char) => prints each individual char in string 
+- string slicing: 
+var = "hello world" 
+start, end = 1, 5
+var[start:end] => ello
+var[2:] => lo world 
+var[:2] => hello wor
+- string reversal 
+var[::-1] olleh
+- string formatting: 
+tree = "orange"
+print(f"the fruit tree type is: {tree}")
+
+Lists 
+- in: checks whether element is in the list 
+- len(): finds the number of elements in list 
+- if list: : checks whether the list is empty or not 
+- sum(): returns sum of all elements in the list 
+- min(): returns min of all elements in the list 
+- max(): returns max of all elements in the list 
+- append(): adds elements to the list 
+- pop(): removes elements from the list 
+- index() - finds index of a particular element in the list 
+foo = [1, 2, 3]
+foo.find(2) => returns 1 
+
+Sets 
+- add(): adds elements to the set 
+- remove(): removes elements from the set if they exist 
+
+Dicts 
+- items(): iterate over key, val pair tuple 
+- pop(): remove key value pair from list 
+- values(): iterate over just the values in the dictionary 
+
+IO 
+- input(): read user input from a file/command line 
+- split(): given a list of values in a string separated by a delimiter
+break the tokens into separate values separated by the delimiter 
+
+Exceptions 
+
+
+
