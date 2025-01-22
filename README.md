@@ -21,6 +21,7 @@ Neetcode <https://neetcode.io/practice>
 ### Python for Coding Interviews Fundamentals 
 ### Python OOP Fundamentals
 21. Classes and Objects 
+22. Encapsulation 
 
 ### Data Structures and Algorithms Fundamentals 
 
