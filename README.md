@@ -22,6 +22,7 @@ Neetcode <https://neetcode.io/practice>
 ### Python OOP Fundamentals
 21. Classes and Objects 
 22. Encapsulation 
+23. Class Attributes 
 
 ### Data Structures and Algorithms Fundamentals 
 
