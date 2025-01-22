@@ -1,0 +1,7 @@
+Classes 
+- Template 
+class Bar: 
+    def __init__(self, arguments):
+        self.
+        self. 
+        self. 

@@ -17,8 +17,11 @@ Neetcode <https://neetcode.io/practice>
 10. Dictionaries
 11. IO
 12. Exceptions
+
 ### Python for Coding Interviews Fundamentals 
 ### Python OOP Fundamentals
+21. Classes and Objects 
+
 ### Data Structures and Algorithms Fundamentals 
 
 
