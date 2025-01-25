@@ -22,6 +22,7 @@ Neetcode <https://neetcode.io/practice>
 13. Sorting
 14. Pythonic Code 
 15. Lists 
+16. Stacks and Queues 
 
 ### Python OOP Fundamentals
 21. Classes and Objects 
