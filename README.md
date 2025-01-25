@@ -19,6 +19,8 @@ Neetcode <https://neetcode.io/practice>
 12. Exceptions
 
 ### Python for Coding Interviews Fundamentals 
+13. Sorting
+
 ### Python OOP Fundamentals
 21. Classes and Objects 
 22. Encapsulation 
