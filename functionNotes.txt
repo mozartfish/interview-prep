@@ -1,18 +1,3 @@
-Falsy Values 
-- False 
-- None 
-- 0 
-- 0.0 
-- ""
-- []
-- empty collections 
-
-Truthy Values 
-- True 
-- All integers other than 0 
-- All floats other than 0.0 
-- All collections with at least one element
-
 // Sorting 
 .sort() - sort ascending returns none
 .sort(reverse=True) - sort descending returns none 

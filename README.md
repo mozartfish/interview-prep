@@ -20,6 +20,7 @@ Neetcode <https://neetcode.io/practice>
 
 ### Python for Coding Interviews Fundamentals 
 13. Sorting
+14. Pythonic Code 
 
 ### Python OOP Fundamentals
 21. Classes and Objects 
