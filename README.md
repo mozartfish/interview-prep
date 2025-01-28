@@ -26,6 +26,7 @@ Neetcode <https://neetcode.io/practice>
 17. Multi-Dimensional Lists 
 18. Hashing 
 19. Heaps + Priority Queues 
+20. Sorted Sets + Dictionaries 
 
 
 ### Python OOP Fundamentals
