@@ -25,6 +25,8 @@ Neetcode <https://neetcode.io/practice>
 16. Stacks and Queues 
 17. Multi-Dimensional Lists 
 18. Hashing 
+19. Heaps + Priority Queues 
+
 
 ### Python OOP Fundamentals
 21. Classes and Objects 
