@@ -23,6 +23,7 @@ Neetcode <https://neetcode.io/practice>
 14. Pythonic Code 
 15. Lists 
 16. Stacks and Queues 
+17. Multi-Dimensional Lists 
 
 ### Python OOP Fundamentals
 21. Classes and Objects 
