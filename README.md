@@ -7,6 +7,8 @@
 2. Contains Duplicate 
 3. Valid Anagram 
 4. Two Sum 
+5. Longest Common Prefix 
+6. Group Anagrams
 
 ### Two Pointers 
 ### Sliding Window 
