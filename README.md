@@ -9,6 +9,9 @@
 4. Two Sum 
 5. Longest Common Prefix 
 6. Group Anagrams
+7. Remove Element 
+8. Majority Element 
+9. Design HashSet 
 
 ### Two Pointers 
 ### Sliding Window 
