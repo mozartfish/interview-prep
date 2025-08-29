@@ -12,9 +12,6 @@
 7. Remove Element 
 8. Majority Element 
 9. Design HashSet 
-10. Design HashMap
-11. Sort an Array 
-12. Sort Colors
 
 ### Two Pointers 
 ### Sliding Window 
